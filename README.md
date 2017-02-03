@@ -8,3 +8,5 @@ ubuntu:16.04 image and contains:
 * Python 3.5
 * Kivy 1.9.1
 * Pip
+
+[Package on Docker Hub](https://hub.docker.com/r/argensis/python3-kivy/)
